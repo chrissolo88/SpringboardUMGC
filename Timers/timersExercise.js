@@ -10,7 +10,7 @@ function countdown(count) {
     }, 1000);
 }
 
-function randomgame() {
+function randomGame() {
     let num = 0;
     let count = 0;
     let interval = setInterval(function() {
